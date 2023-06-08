@@ -27,6 +27,13 @@ Remember to handle any errors that may occur during the API request and response
 
 By following these steps, you can create a weather app using JavaScript and the Fetch API to retrieve weather data from a weather API service.
 
+**Output:**
+
+![image](https://github.com/vijaySadhuram/project_Weather_App/assets/98251620/551c222a-19a0-41e7-99a8-6939cd248359)
+
+**Handle some cases**
+
+![image](https://github.com/vijaySadhuram/project_Weather_App/assets/98251620/ae9c9c94-4177-4a82-9b49-2569bb0cca5a)
 
 
 
